@@ -1,7 +1,8 @@
 <img src="./static/hello-there.gif" />
 
 - 🔭 I’m currently working on personal projects in <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="18" height="17" />, including one [visualizing game 🎲🧙🏼 mechanics](https://github.com/autochthonia/szoreny) as [directed acyclic graphs](https://r-causal.github.io/ggdag/articles/intro-to-dags.html)
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="18" height="17" />, including one [visualizing game 🎲🧙🏼 mechanics](https://github.com/autochthonia/szoreny)
+  that are best described as [directed acyclic graphs](https://r-causal.github.io/ggdag/articles/intro-to-dags.html)
 - 🌱 I’m currently learning <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="18" height="17" /></a>, <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="18" height="18" /></a> , and <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="18" height="18" /></a>
 - 📫 How to reach me: [Visit my personal site](https://www.david-saeva.com)
 - 😄 Pronouns: He/him/his
